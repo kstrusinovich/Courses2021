@@ -28,7 +28,7 @@ public class HomeWork0 {
                 System.out.println("Student{" +
                         "firstName='" + firstName + '\'' +
                         ", lastName='" + lastName + '\'' +
-                        ", mark=" + mark +
+                        ", mark= " + mark +
                         '}');
             }
         }
